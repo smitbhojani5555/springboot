@@ -11,6 +11,7 @@ import lombok.ToString;
 @ToString
 public class JwtResponse {
 
-	private String response;
+	private String access_token;
+	private String refresh_token;
 
 }
