@@ -35,7 +35,7 @@ const EmployeeList = () => {
   };
 
   return (
-    <div className="container mx-auto my-8">
+    <div className="container mx-auto px-4 my-8">
       <div className="h-12">
         <button
           className="rounded bg-slate-600 text-white px-6 py-2"
